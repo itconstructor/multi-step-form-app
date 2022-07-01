@@ -1,0 +1,29 @@
+.radio-button-panel-container {
+    width: 100%;
+}
+    
+.content {
+    width: 100%;
+    &__radio-btns {
+        width: 100%;
+    }
+}
+
+.radio-btns {
+
+    &__item {
+      margin-top: var(--margin-label-input);
+    }
+}
+
+.radio-btns-item {
+
+    &__label {
+        font-family: var(--font-family-label);
+        font-size: var(--font-size-btn-label);
+        font-weight: var(--font-weight-label);
+        color: var(--font-color-label);
+    }
+
+    &__input {}
+}

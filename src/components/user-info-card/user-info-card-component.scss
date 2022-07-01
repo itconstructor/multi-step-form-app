@@ -1,0 +1,26 @@
+.user-info-card-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &__content {
+        width: 100%;
+       
+    }
+}
+
+.content {}
+
+.user-info {
+
+}
+
+.user-info-property {
+    text-align: center;
+    margin-bottom: var(--margin-user-info-card);
+    font-family: var(--font-family-label);
+    font-size: var(--font-size-btn-label);
+    font-weight: var(--font-weight-label);
+    color: var(--font-color-label);
+}
+

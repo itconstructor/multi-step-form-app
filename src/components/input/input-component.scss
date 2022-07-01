@@ -1,0 +1,32 @@
+.input-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__content {
+        width: 100%;
+    }
+}
+
+.content {
+
+    &__input {
+        width: 100%;
+        height: 2.5rem;
+        margin-top: var(--margin-label-input);
+        border: 1px solid #D1D1D1;
+        text-indent: 0.5rem;
+        font-family: var(--font-family-input);
+        font-size: var(--font-size-btn-input);
+        font-weight: var(--font-weight-input);
+        color: var(--font-color-input);
+    }
+}
+
+.content-label {
+    font-family: var(--font-family-label);
+    font-size: var(--font-size-btn-label);
+    font-weight: var(--font-weight-label);
+    color: var(--font-color-label);
+}

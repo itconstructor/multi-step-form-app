@@ -1,0 +1,72 @@
+:root {
+
+    //Colors
+
+    #{--dark}: #1A1A1A;
+    #{--light}: white;
+    //Fonts
+    //Title
+    #{--font-family-title}: 'Open Sans', sans-serif;
+    #{--font-size-title}: 1.5rem;
+    #{--font-weight-title}: bold;
+    #{--font-color-title}: #1A1A1A;
+    //Subtitle
+    #{--font-family-subtitle}: 'Open Sans', sans-serif;
+    #{--font-size-subtitle}: 1rem;
+    #{--font-weight-subtitle}: normal;
+    #{--font-color-subtitle}: #1A1A1A;
+
+    //Premim message
+    #{--font-family-premium-text}: 'Open Sans', sans-serif;
+    #{--font-size-premium-text}: 1.125rem;
+    #{--font-weight-premium-text}: bold;
+    #{--font-color-premium-text}: #1A1A1A;
+
+    //Input
+    #{--font-family-label}: 'Open Sans',
+        sans-serif;
+    #{--font-size-label}: 1rem;
+    #{--font-weight-label}: normal;
+    #{--font-color-label}: #1A1A1A;
+
+    #{--font-family-input}: 'Open Sans',
+        sans-serif;
+    #{--font-size-input}: 1rem;
+    #{--font-weight-input}: normal;
+    #{--font-color-input}: #727272;
+
+    //Select
+    #{--font-family-select}: 'Open Sans',
+        sans-serif;
+    #{--font-size-select}: 1rem;
+    #{--font-weight-select}: normal;
+    #{--font-color-select}: #727272;
+
+    //Buttons
+    #{--font-family-btn-white}: 'Open Sans', sans-serif;
+    #{--font-size-btn-white}: 1.125rem;
+    #{--font-weight-btn-white}: normal;
+    #{--font-color-btn-white}: #1A1A1A;
+
+    #{--font-family-btn-black}: 'Open Sans',
+        sans-serif;
+    #{--font-size-btn-black}: 1.125rem;
+    #{--font-weight-btn-black}: normal;
+    #{--font-color-btn-black}: white;
+
+    //Margins
+    #{--margin-page-content-top}: 10%;
+    #{--margin-page-title-bottom}: 2rem;
+    #{--margin-page-subtitle-bottom}: 1.5rem;
+    #{--margin-page-subtitle-error-bottom}: 0.5rem;
+    #{--margin-between-input}: 1.5rem;
+    #{--margin-label-input}: 0.75rem;
+    #{--margin-radio-button-panel}: 2rem;
+    #{--margin-button-form}: 4rem;
+    #{--margin-min-between-button-form}: 0.75rem;
+    #{--margin-premium-text}: 3rem;
+    #{--margin-user-info-card}: 1rem;
+    //Padding
+    #{--padding-top-first-page-btn}: 2rem;
+    #{--padding-top-error-page-btn}: 2rem;
+}
