@@ -89,6 +89,6 @@ npm run build
 - [NodeJs](https://nodejs.org/en/) - For NPM Package manager
 
 ## ✍️ Authors <a name = "authors"></a>
-Fesenko Roman itconstructorfrs@gmail.com
+itconstructorfrs@gmail.com
 
 
