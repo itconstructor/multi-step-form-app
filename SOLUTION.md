@@ -34,14 +34,14 @@
 
 ## 🧐 About <a name = "about"></a>
 
-	The purpose of this project is creating light convinient multi step form to give the the User ability to choose and buy different insurance packages.
+	The purpose of this project is creating light convenient multi step form to give the the User ability to choose and buy different insurance packages.
 	This application was created with Vue 3 framework. Vue is very lightweight, flexible performant and versatile framework for building web applications.
-	The process of purchasing insurance is divided into three stages, one page for each. User can navigate from one page to another by clining on buttons. To provide this vue-router is used.
+	The process of purchasing insurance is divided into three stages, one page for each. User can navigate from one page to another by clicking on buttons. To provide this vue-router is used.
 	On the fisrst start page User can click on the 'Start' button and start the wizard
 	On the second page User should fill in name and age, select country and package. On this page, user can also see calculated Premium value in correct currency. User can back from this page and start again or, if everything is appropriate, to click on 'Next' button' and go ti the therd page. If the user entered age above 100 years then he redirects to the error-page.
 	On the Third Page, the User can view the resulting information and buy insurance by clicking on the "Buy" button, or return if something needs to be changed.
 	The project contains Vue components for pages view. Each page component includes many reusable components to achieve  changeability and scalability. To improve availability we use dynamic imports for pages
-	To provide storing and aviability User information while navigation, we use vuex store.
+	To provide storing and avaibility User information while navigation, we use vuex store.
 	
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
